@@ -1,0 +1,166 @@
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+Headline: Woman donates her womb to sister in first-ever U.K. transplant
+Category: Science
+Date: Science
+--------------------------------------------------
+Headline: Decades-old body of skier revealed as glacier rapidly melts in Austria
+Category: World
+Date: World
+--------------------------------------------------
+Headline: At BRICS summit, Putin rails against West from afar as divisions emerge
+Category: World
+Date: World
+--------------------------------------------------
+Headline: India moon landing: Chandrayaan-3 successfully lands on lunar surface
+Category: Science
+Date: Science
+--------------------------------------------------
+Headline: Pakistan cable car: All 8 people rescued after being stranded above ravine
+Category: World
+Date: World
+--------------------------------------------------
+Headline: ‘They’re in a heap of trouble’: What’s prompted problems for China’s powerhouse economy?
+Category: Economy
+Date: Economy
+--------------------------------------------------
+Headline: Pyxis Ocean: First voyage for cargo ship testing wind power
+Category: Environment
+Date: Environment
+--------------------------------------------------
+Headline: Southern California cleaning up after tropical storm Hilary
+Category: U.S. News
+Date: U.S. News
+--------------------------------------------------
+Headline: Lucy Letby does not attend sentencing hearing, prompting action by U.K. government
+Category: Crime
+Date: Crime
+--------------------------------------------------
+Headline: Denmark, Netherland donate up to 61 fighter jets to Ukraine — will it make an impact?
+Category: World
+Date: World
+--------------------------------------------------
+Headline: Russia’s Luna-25 smashes into moon for 1st mission in 47 years: Roscosmos
+Category: Tech
+Date: Tech
+--------------------------------------------------
+Headline: Spain wildfires: Tens of thousands evacuated as Tenerife blaze remains out of control
+Category: World
+Date: World
+--------------------------------------------------
+Headline: Pakistani brothers arrested for blasphemy, accused of burning Koran, after mob burns churches
+Category: World
+Date: World
+--------------------------------------------------
+Headline: Lahaina fears wildfire disaster could lead to Maui’s ‘worst economic crisis’
+Category: Environment
+Date: Environment
+--------------------------------------------------
+Headline: Maui fire survivors confront difficulty of rebuilding their lives
+Category: Environment
+Date: Environment
+--------------------------------------------------
+Headline: At BRICS summit, Putin rails against West from afar as divisions emerge
+Excerpt: Heightened tensions in the wake of the Ukraine war and Beijing's growing rivalry with the U.S. have pushed China and Russia to seek to strengthen the bloc.
+Category: World
+Date: World
+--------------------------------------------------
+Headline: Migrants believed dead in Greece wildfires that forced evacuations
+Excerpt: Another major blaze has been burning across Tenerife in Spain's Canary Islands for a week, although no injuries or damage to homes was reported.
+Category: World
+Date: World
+--------------------------------------------------
+Headline: Fukushima fallout: Is Japan ‘irresponsible’ to dump treated nuclear wastewater?
+Excerpt: Japan has said that the water release is safe, but some environmental activists have argued that not all the possible impacts have been studied.
+Category: Environment
+Date: Environment
+--------------------------------------------------
+Headline: All 8 people rescued from cable car dangling 275 m above Pakistan ravine
+Excerpt: Six children and two adults were on their way to a local school when one of the cable car lines snapped, leaving them stranded half way across a ravine.
+Category: World
+Date: World
+--------------------------------------------------
+Headline: The new space race is here. Will it look like the ’60s — or the 16th century?
+Excerpt: Many countries – and companies – are starting or renewing their space programs, competing to reach the Moon’s South Pole, where there might be ice and highly valuable resources.
+Category: Canada
+Date: Canada
+--------------------------------------------------
+Headline: Europe to begin crackdown of illegal online content. Here’s what to know
+Excerpt: The first phase of the European Union's groundbreaking new digital rules will take effect this week. Some online platforms have already started making changes.
+Category: Tech
+Date: Tech
+--------------------------------------------------
+Headline: More than 200 former Afghan military, officials killed since Taliban takeover: UN
+Excerpt: The mission said in a report it had recorded at least 218 extrajudicial killings with links to the Taliban from their takeover of Afghanistan in mid-2021 up to June.
+Category: World
+Date: World
+--------------------------------------------------
+Headline: Ukrainian troops gain foothold in strategic southeastern village, Kyiv says
+Excerpt: In a video published by the Ukrainian military, a woman is seen kissing a Ukrainian soldier and several evacuated residents talking on the phone with loved ones.
+Category: World
+Date: World
+--------------------------------------------------
+Headline: Why China’s economy is faltering — and how that might impact Canada
+Excerpt: Hopes for a booming economic rebound from the COVID-19 pandemic have not materialized for China, leading some forecasters to slash growth expectations for the manufacturing hub.
+Category: Canada
+Date: Canada
+--------------------------------------------------
+Headline: Japan to start releasing treated Fukushima wastewater into ocean this week
+Excerpt: The controversial plan, approved two years ago, has faced criticism from China and local fishing groups, who fear reputational damage and a threat to their livelihood.
+Category: World
+Date: World
+--------------------------------------------------
+Excerpt: 
+--------------------------------------------------
+Headline: Teen who killed boyfriend in 160 km/h crash sentenced for murder in Ohio
+--------------------------------------------------
+Headline: ‘Fire tornado’: Video captures jaw-dropping phenomenon at B.C. wildfire
+--------------------------------------------------
+Headline: A N.S. man jumped into raging waters to save a woman’s life. He’s being hailed as a hero
+--------------------------------------------------
+Headline: Wagner Group chief Prigozhin reportedly onboard deadly plane crash
+--------------------------------------------------
+Headline: RCMP looking into the Ford government Greenbelt controversy
+--------------------------------------------------
+Headline: Ontario court rules against Jordan Peterson, upholds social media training order
+--------------------------------------------------
+Headline: Ohio teen who killed boyfriend, friend in 160 km/h crash sentenced for murder
+--------------------------------------------------
+Headline: Rare ‘fire tornado’ filmed amid B.C. wildfires
+--------------------------------------------------
+Headline: Wagner boss shares 1st video since Russian rebellion, hints he’s enlisting new recruits in Africa
+--------------------------------------------------
+Headline: Trudeau’s new cabinet to tackle housing, economy and wildfires in 1st retreat
+--------------------------------------------------
+Headline: Bruce Willis’ wife gives tearful update amid his dementia battle
+--------------------------------------------------
+Headline: Russia’s Luna-25 smashes into moon for 1st mission in 47 years: Roscosmos
+--------------------------------------------------
+Headline: Teen who killed boyfriend in 160 km/h crash sentenced for murder in Ohio
+--------------------------------------------------
+Headline: ‘Fire tornado’: Video captures jaw-dropping phenomenon at B.C. wildfire
+--------------------------------------------------
+Headline: A N.S. man jumped into raging waters to save a woman’s life. He’s being hailed as a hero
+--------------------------------------------------
+Headline: Wagner Group chief Prigozhin reportedly onboard deadly plane crash
+--------------------------------------------------
+Headline: RCMP looking into the Ford government Greenbelt controversy
+--------------------------------------------------
+Headline: Ontario court rules against Jordan Peterson, upholds social media training order
+--------------------------------------------------
+Headline: Ohio teen who killed boyfriend, friend in 160 km/h crash sentenced for murder
+--------------------------------------------------
+Headline: Rare ‘fire tornado’ filmed amid B.C. wildfires
+--------------------------------------------------
+Headline: Wagner boss shares 1st video since Russian rebellion, hints he’s enlisting new recruits in Africa
+--------------------------------------------------
+Headline: Trudeau’s new cabinet to tackle housing, economy and wildfires in 1st retreat
+--------------------------------------------------
+Headline: Bruce Willis’ wife gives tearful update amid his dementia battle
+--------------------------------------------------
+Headline: Russia’s Luna-25 smashes into moon for 1st mission in 47 years: Roscosmos
+--------------------------------------------------
